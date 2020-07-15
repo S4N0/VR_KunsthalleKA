@@ -21,17 +21,25 @@ Die aktuell betretbaren Szenerien sind
 
 Die weiteren Bilder in dem virtuellen Austellungsraum lassen sich in die Hand nehmen und anschließend vergrößern bzw. verkleinern, indem man auf die Symbole neben dem Bild tippt
 
-Wo liegen welche Files /  In welcher Szene wurde gearbeitet / Wie kann interagiert werden? 
+Wo liegen welche Files /  In welcher Szene wurde gearbeitet / Wie kann interagiert werden?
+
+Die Hauptszene benannt als MainScene befindet sich im Assets Ordern unter Scenes.
+
+Alle 3D Objekte stammen aus dem Internet und wurden von uns angepasst:
+- Dürers Solid:
+- Rhino
+- Safari Wagen
+- Austellungsraum
 
 ### Screenshots
 
 Fügen Sie hier die Screenshots aus Ihrem Screenshots-Verzeichnis ein und versehen Sie die Bilder mit einer knappen Bildunterschrift zur Erklärung.
 
 <div>
-  <img src="/Screenshots/Bild1.jpg?raw=true" width="48%" style="display:inline; margin:1%">
-  <img src="/Screenshots/Bild2.jpg?raw=true" width="48%" style="display:inline; margin:1%">
-  <img src="/Screenshots/Bild3.jpg?raw=true" width="48%" style="display:inline; margin:1%">
-  <img src="/Screenshots/Bild4.jpg?raw=true" width="48%" style="display:inline; margin:1%">
+  <img src="/Screenshots/MainRoom.jpg?raw=true" width="48%" style="display:inline; margin:1%">
+  <img src="/Screenshots/RhinoScene.jpg?raw=true" width="48%" style="display:inline; margin:1%">
+  <img src="/Screenshots/MelancholiaScene.jpg?raw=true" width="48%" style="display:inline; margin:1%">
+  <img src="/Screenshots/PaintingsAndTeleporter.jpg?raw=true" width="48%" style="display:inline; margin:1%">
 </div>
 
 ### Sonstiges (optional)
