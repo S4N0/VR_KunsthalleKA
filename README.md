@@ -51,8 +51,6 @@ Die ausführbare .exe Datei kann über den bereitgestellten Google Drive Link im
 
 ## Screenshots
 
-Fügen Sie hier die Screenshots aus Ihrem Screenshots-Verzeichnis ein und versehen Sie die Bilder mit einer knappen Bildunterschrift zur Erklärung.
-
 <div>
   <img src="/Screenshots/MainRoom.jpg?raw=true" width="48%" style="display:inline; margin:1%">
   <p>Austellungsraum und Ausgangspunkt der Anwendung</p>
@@ -64,8 +62,3 @@ Fügen Sie hier die Screenshots aus Ihrem Screenshots-Verzeichnis ein und verseh
   <p>Szenerie des Werkes Rhinocerus von Dürer</p>
 </div>
 
-## Sonstiges (optional)
-
-Sie können die ReadMe.md sehr gerne nutzen, um weitere Informationen zu Ihrem Projekt festzuhalten.
-Denken Sie daran, keine vertraulichen Daten wie Matr.Nr. oder ihre Namen auf einer externen Plattform zu hinterlegen. Sobald ihr Repo abgabefertig eingerichtet ist,
-senden Sie uns eine Benachrichtigung über die Hochschulemailadresse. 
